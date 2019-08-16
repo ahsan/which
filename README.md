@@ -1,1 +1,1 @@
-which
+Working in multiple repositories at a time becomes really confusing. VS Code hiding the repository name when the explorer tab is collapsed, doesn't help either 🤦. `Which` is a simple extension that solves this problem by constantly showing the repository (workspace) name in the status bar.
